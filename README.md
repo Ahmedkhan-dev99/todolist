@@ -34,7 +34,7 @@ This project is a Todo application built using React and Redux. It allows users 
    ![Add Todo]<img src="preview/image1.png" alt="Add Todo image" />
 
 2. **Todo List**
-   ![Todo List](../todolist//preview//image2.png)
+   ![Todo List](preview//image2.png)
 
 3. **Edsit Todo**
    ![Edit Todo](../todolist//preview//image3.png)
