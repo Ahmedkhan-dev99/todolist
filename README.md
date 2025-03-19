@@ -31,7 +31,7 @@ This project is a Todo application built using React and Redux. It allows users 
 **Screenshots**
 
 1. **Add Todo**
-   ![Add Todo](../todolist//preview//image1.png)
+   ![Add Todo](./todolist//preview//image1.png)
 
 2. **Todo List**
    ![Todo List](../todolist//preview//image2.png)
