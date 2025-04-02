@@ -36,7 +36,7 @@ This project is a Todo application built using React and Redux. It allows users 
 2. **Todo List**
    ![Todo List](preview//image2.png)
 
-3. **Edsit Todo**
+3. **Edit Todo**
    ![Edit Todo](preview//image3.png)
 
 
